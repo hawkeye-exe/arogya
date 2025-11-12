@@ -1,0 +1,23 @@
+{
+  "name": "arogya",
+  "version": "1.0.0",
+  "description": "Voice-First Medical Appointment Booking with Real-Time Hospital Verification",
+  "main": "src/js/app.js",
+  "scripts": {
+    "start": "npx serve public",
+    "dev": "npx serve public -l 3000",
+    "build": "echo 'Build process for production'",
+    "test": "echo 'No tests configured yet'"
+  },
+  "keywords": [
+    "healthcare",
+    "appointment-booking",
+    "voice-assistant",
+    "pwa",
+    "medical"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
